@@ -1,0 +1,29 @@
+.w300{
+	width:300px;
+}
+.margin100{
+	margin-top:80px;
+}
+.minheight{
+	min-height: 500px;
+}
+
+.left{
+	float : left;
+}
+.center{
+	margin:0px auto;
+	text-align: center;
+}
+#page{
+	text-align: center;
+}
+#page a{
+	padding: 2px 4px;
+	border:1px solid #ccc;
+	margin:0 5px;
+}
+#page span{
+	padding: 2px 4px;
+	color:#f00;
+}
